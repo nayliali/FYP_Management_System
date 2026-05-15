@@ -6,14 +6,14 @@
       "id": "SRS",
       "guid": "c96cf226-be1c-4769-880c-e2a6c0ddda1a",
       "name": "Software Requirements Specification",
-      "lastId": 136,
+      "lastId": 149,
       "createdOn": "2026-05-15T09:01:49.019Z",
       "createdBy": {
         "name": "Nayli",
         "email": "naylimohdali@gmail.com",
         "company": "IIUM"
       },
-      "lastChangedOn": "2026-05-15T15:16:34.680Z",
+      "lastChangedOn": "2026-05-15T16:26:26.750Z",
       "lastChangedBy": {
         "name": "Nayli",
         "email": "naylimohdali@gmail.com",
@@ -546,13 +546,609 @@
               "id": "109",
               "guid": "a4f1c954-7d89-4eb6-9d6e-6f8e946238b2",
               "heading": "Constraints Requirements",
-              "type": "SEC"
+              "type": "SEC",
+              "children": [
+                {
+                  "id": "137",
+                  "guid": "c6962472-4b87-4020-bd7f-118feb8275d9",
+                  "heading": "FYP-C-01",
+                  "text": "<p>The system must be developed within 14 weeks or one semester and delivered by week 14</p>",
+                  "source": "FYP Project Schedule (Document) and Project Supervisor (Stakeholder)",
+                  "history": [
+                    {
+                      "affectedNodeId": "109",
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:00:30.902Z",
+                      "docId": "SRS",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "heading": null,
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:00:30.902Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "source": null
+                      },
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:01:19.736Z"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "id": "138",
+                      "guid": "d20b97f0-936b-487a-a091-e2db170cba6c",
+                      "deleted": true,
+                      "heading": "FYP-C-02",
+                      "text": "<p>No real student or supervisor personal data may be used during development and testing</p>",
+                      "history": [
+                        {
+                          "affectedNodeId": "137",
+                          "changedBy": {
+                            "company": "IIUM",
+                            "email": "naylimohdali@gmail.com",
+                            "name": "Nayli"
+                          },
+                          "changedOn": "2026-05-15T16:02:13.695Z",
+                          "docId": "SRS",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "heading": null,
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "IIUM",
+                            "email": "naylimohdali@gmail.com",
+                            "name": "Nayli"
+                          },
+                          "changedOn": "2026-05-15T16:02:13.695Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "deleted": null
+                          },
+                          "changedBy": {
+                            "company": "IIUM",
+                            "email": "naylimohdali@gmail.com",
+                            "name": "Nayli"
+                          },
+                          "changedOn": "2026-05-15T16:08:43.141Z"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "139",
+                  "guid": "c0eca7f2-63db-475f-b14d-d4551dd109c7",
+                  "heading": "FYP-C-02",
+                  "text": "<p>No real student or supervisor personal data may be used during development and testing</p><p><br></p>",
+                  "source": "University Data Protection Policy (Document)",
+                  "history": [
+                    {
+                      "affectedNodeId": "109",
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:14:58.709Z",
+                      "docId": "SRS",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "heading": null,
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:14:58.709Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "source": null
+                      },
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:23:42.746Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "140",
+                  "guid": "a0e15776-ffd5-45e8-8c21-bcda35910b62",
+                  "heading": "FYP-C-03",
+                  "text": "<p>The system must be developed by a team of 3 students with no external developers</p>",
+                  "source": "Project Guidelines(Document)",
+                  "history": [
+                    {
+                      "affectedNodeId": "109",
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:16:27.065Z",
+                      "docId": "SRS",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "heading": null,
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:16:27.065Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "source": null
+                      },
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:24:01.440Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "141",
+                  "guid": "f00d735b-c7c4-4c6c-bb62-a272e6282d72",
+                  "heading": "FYP-C-04",
+                  "text": "<p>The system must be compatible with Chrome, FireFox or Safari browsers</p>",
+                  "source": "System UI/UX Sepcification(Document)",
+                  "history": [
+                    {
+                      "affectedNodeId": "109",
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:17:19.651Z",
+                      "docId": "SRS",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "heading": null,
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:17:19.651Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "source": null
+                      },
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:24:20.293Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "142",
+                  "guid": "2a49658e-76cb-4ddc-a7dc-e6d14705281a",
+                  "heading": "FYP-C-05",
+                  "text": "<p>All code must be controlled using Git with regular commits to Github</p>",
+                  "source": "Development Team",
+                  "history": [
+                    {
+                      "affectedNodeId": "109",
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:18:00.422Z",
+                      "docId": "SRS",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "heading": null,
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:18:00.422Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "source": null
+                      },
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:24:28.793Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "143",
+                  "guid": "9290c758-2a08-43e4-bbaa-80c5542b4995",
+                  "heading": "FYP-C-06",
+                  "text": "<p>The system must use MySQL for database during development</p>",
+                  "source": "Development Team",
+                  "history": [
+                    {
+                      "affectedNodeId": "109",
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:18:36.133Z",
+                      "docId": "SRS",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "heading": null,
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:18:36.133Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "source": null
+                      },
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:24:31.375Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "144",
+                  "guid": "01ed7ac1-ed1b-433d-a215-166e313d73d7",
+                  "heading": "FYP-C-07",
+                  "text": "<p>Session timeout must occur after 30 minutes of inactivity</p>",
+                  "source": "System UI/UX specification (Document)",
+                  "history": [
+                    {
+                      "affectedNodeId": "109",
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:19:07.578Z",
+                      "docId": "SRS",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "heading": null,
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:19:07.578Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "source": null
+                      },
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:24:48.581Z"
+                    }
+                  ]
+                }
+              ]
             },
             {
               "id": "110",
               "guid": "03827927-59ff-4ec1-8bd2-c0585fcfb646",
               "heading": "Business Requirements",
-              "type": "SEC"
+              "type": "SEC",
+              "children": [
+                {
+                  "id": "145",
+                  "guid": "069f683e-c185-46ba-96c4-48b0ec5f18df",
+                  "heading": "FYP-D-01",
+                  "text": "<p>Valid project status value : Not Started, Proposal, Submitted, In Progress, Approved, Rejected, Commented</p>",
+                  "discussion": [
+                    {
+                      "guid": "222ccac6-eac9-48ea-a23e-785259b1a5c2",
+                      "comment": "<p>missing requirement source</p><p><br></p>",
+                      "date": "2026-05-15T16:26:26.750Z",
+                      "author": {
+                        "name": "Nayli",
+                        "email": "naylimohdali@gmail.com",
+                        "company": "IIUM"
+                      }
+                    }
+                  ],
+                  "history": [
+                    {
+                      "affectedNodeId": "110",
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:20:09.227Z",
+                      "docId": "SRS",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "heading": null,
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:20:09.227Z"
+                    },
+                    {
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:26:26.750Z",
+                      "commentGuid": "222ccac6-eac9-48ea-a23e-785259b1a5c2",
+                      "updatedComment": null
+                    }
+                  ]
+                },
+                {
+                  "id": "146",
+                  "guid": "7dfc9446-dea8-4cc2-9ae4-ffb02d2f9079",
+                  "heading": "FYP-D-02",
+                  "text": "<p>Date format for all system displays: DD/MM/YYYY</p>",
+                  "source": "University Data Standard (Document)",
+                  "history": [
+                    {
+                      "affectedNodeId": "110",
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:20:40.684Z",
+                      "docId": "SRS",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "heading": null,
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:20:40.684Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "source": null
+                      },
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:25:16.279Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "147",
+                  "guid": "81cab623-d04b-4c7a-ba18-4cd52fb39422",
+                  "heading": "FYP-D-03",
+                  "text": "<p>Allowed file types: .pdf, .docx, .pptx, .zip</p>",
+                  "source": "System Design Specification (Document)",
+                  "history": [
+                    {
+                      "affectedNodeId": "110",
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:21:20.135Z",
+                      "docId": "SRS",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "heading": null,
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:21:20.135Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "source": null
+                      },
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:25:36.089Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "148",
+                  "guid": "1a7b91b5-ccf3-4f93-b831-42e1a86e13b9",
+                  "heading": "FYP-D-04",
+                  "text": "<p>FYP milestone submission deadlines</p>",
+                  "source": "FYP Coordinator (stakeholder)",
+                  "history": [
+                    {
+                      "affectedNodeId": "110",
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:21:59.447Z",
+                      "docId": "SRS",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:21:59.447Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "heading": null
+                      },
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:22:14.663Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "source": null
+                      },
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:25:51.665Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "source": "FYP Coordinator"
+                      },
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:26:04.708Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "149",
+                  "guid": "ccd6b24f-ef18-4e25-b82b-9970c4ee8dad",
+                  "heading": "FYP-D-05",
+                  "text": "<p>Supervisor feedback response time: within 5 days from student submission</p>",
+                  "source": "FYP Coordinator (stakeholder)",
+                  "history": [
+                    {
+                      "affectedNodeId": "110",
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:22:51.243Z",
+                      "docId": "SRS",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "heading": null,
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:22:51.243Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "source": null
+                      },
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T16:26:07.402Z"
+                    }
+                  ]
+                }
+              ]
             },
             {
               "id": "111",
