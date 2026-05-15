@@ -1,0 +1,13 @@
+{
+  "id": "FIMS",
+  "description": "FYP MANAGEMENT SYSTEM",
+  "documents": [
+    "SRS.json"
+  ],
+  "traceability": {
+  },
+  "metadata": {
+    "format": "2.22",
+    "saveHistory": true
+  }
+}
