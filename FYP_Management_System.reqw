@@ -13,10 +13,10 @@
         "email": "naylimohdali@gmail.com",
         "company": "IIUM"
       },
-      "lastChangedOn": "2026-05-15T12:17:07.057Z",
+      "lastChangedOn": "2026-05-15T14:24:01.428Z",
       "lastChangedBy": {
-        "name": "Iman",
-        "email": "imannidriss0308@gmail.com",
+        "name": "Nayli",
+        "email": "naylimohdali@gmail.com",
         "company": "IIUM"
       },
       "helpRef": "ISO/IEC/IEEE 29148:2018",
@@ -25,13 +25,41 @@
           "id": "115",
           "guid": "db7f8e9a-1ba6-48a9-9eda-b1dea4fc35ca",
           "heading": "Introduction",
+          "text": "<p>FYP Management System is a web-based platform design to improve the management and coordination of undergraduate final year projects.</p>",
           "type": "SEC",
+          "history": [
+            {
+              "attributesChanged": {
+                "text": null
+              },
+              "changedBy": {
+                "company": "IIUM",
+                "email": "naylimohdali@gmail.com",
+                "name": "Nayli"
+              },
+              "changedOn": "2026-05-15T14:23:09.810Z"
+            }
+          ],
           "children": [
             {
               "id": "116",
               "guid": "ead2f789-8cab-470d-b118-e77ec5c69514",
               "heading": "Purpose",
-              "type": "SEC"
+              "text": "<p>Aim to centralize all FYP-related activities into a single platform</p>",
+              "type": "SEC",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "IIUM",
+                    "email": "naylimohdali@gmail.com",
+                    "name": "Nayli"
+                  },
+                  "changedOn": "2026-05-15T14:24:01.428Z"
+                }
+              ]
             },
             {
               "id": "117",
