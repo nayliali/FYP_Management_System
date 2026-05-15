@@ -13,7 +13,7 @@
         "email": "naylimohdali@gmail.com",
         "company": "IIUM"
       },
-      "lastChangedOn": "2026-05-15T14:24:01.428Z",
+      "lastChangedOn": "2026-05-15T15:16:34.680Z",
       "lastChangedBy": {
         "name": "Nayli",
         "email": "naylimohdali@gmail.com",
@@ -364,7 +364,31 @@
                       "guid": "c0b6f6c4-c664-4cfd-85d0-55ec79d35532",
                       "heading": "FYP-G4-02 ",
                       "text": "<p>The system shall record the participation details of registered students.</p>",
-                      "source": "Interview with FYP Coordinators "
+                      "source": "Interview with FYP Coordinators ",
+                      "discussion": [
+                        {
+                          "guid": "af1734bf-c2b7-4500-9fe6-dfd08ccb1b69",
+                          "comment": "<p>Agreed !</p><p><br></p>",
+                          "date": "2026-05-15T15:16:34.680Z",
+                          "author": {
+                            "name": "Nayli",
+                            "email": "naylimohdali@gmail.com",
+                            "company": "IIUM"
+                          }
+                        }
+                      ],
+                      "history": [
+                        {
+                          "changedBy": {
+                            "company": "IIUM",
+                            "email": "naylimohdali@gmail.com",
+                            "name": "Nayli"
+                          },
+                          "changedOn": "2026-05-15T15:16:34.680Z",
+                          "commentGuid": "af1734bf-c2b7-4500-9fe6-dfd08ccb1b69",
+                          "updatedComment": null
+                        }
+                      ]
                     },
                     {
                       "id": "92",
@@ -486,7 +510,35 @@
                   "guid": "a0fc20d7-ec0a-4b7c-8062-9087922b0030",
                   "heading": "FYP-NFR-08 ",
                   "text": "<p>The system shall encrypt all uploaded project files to protect intellectual property.</p>",
-                  "source": "IT Security Policy (Document) "
+                  "source": "IT Security Policy (Document) ",
+                  "history": [
+                    {
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T15:13:21.522Z",
+                      "commentGuid": "fdd3b4f5-5efc-4b05-bdb0-38ae8b161f07",
+                      "updatedComment": null
+                    },
+                    {
+                      "changedBy": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "changedOn": "2026-05-15T15:14:13.023Z",
+                      "commentAuthor": {
+                        "company": "IIUM",
+                        "email": "naylimohdali@gmail.com",
+                        "name": "Nayli"
+                      },
+                      "commentDate": "2026-05-15T15:13:21.522Z",
+                      "commentGuid": "fdd3b4f5-5efc-4b05-bdb0-38ae8b161f07",
+                      "removedComment": "<p>this is much needed for the system !</p>"
+                    }
+                  ]
                 }
               ]
             },
