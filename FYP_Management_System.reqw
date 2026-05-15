@@ -13,7 +13,7 @@
         "email": "naylimohdali@gmail.com",
         "company": "IIUM"
       },
-      "lastChangedOn": "2026-05-15T09:01:49.019Z",
+      "lastChangedOn": "2026-05-15T09:33:24.902Z",
       "lastChangedBy": {
         "name": "Nayli",
         "email": "naylimohdali@gmail.com",
@@ -25,15 +25,43 @@
           "id": "1",
           "guid": "199f8a1d-01bf-4d83-b485-827c5f17b548",
           "heading": "Introduction",
+          "text": "<p>This system is a web-based platform designed to improve the management and coordination of undergraduate final year projects. he stakeholders involves are students, supervisors, FYP coordinator and administrator.</p>",
           "helpRef": "8.5",
           "type": "SEC",
+          "history": [
+            {
+              "attributesChanged": {
+                "text": null
+              },
+              "changedBy": {
+                "company": "IIUM",
+                "email": "naylimohdali@gmail.com",
+                "name": "Nayli"
+              },
+              "changedOn": "2026-05-15T09:31:46.949Z"
+            }
+          ],
           "children": [
             {
               "id": "2",
               "guid": "0cb2e5d3-8768-43bf-8747-fd069c208a17",
               "heading": "Purpose",
+              "text": "<p>To centralize all FYP-related activities into a single platform. Key features include automated submission, supervisor assignment, milestone tracking, report submission, grading and progress monitoring through dashboards.</p>",
               "helpRef": "9.6.2",
-              "type": "SEC"
+              "type": "SEC",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "IIUM",
+                    "email": "naylimohdali@gmail.com",
+                    "name": "Nayli"
+                  },
+                  "changedOn": "2026-05-15T09:33:24.902Z"
+                }
+              ]
             },
             {
               "id": "3",
