@@ -13,11 +13,11 @@
         "email": "naylimohdali@gmail.com",
         "company": "IIUM"
       },
-      "lastChangedOn": "2026-05-15T16:26:26.750Z",
+      "lastChangedOn": "2026-05-16T17:29:01.029Z",
       "lastChangedBy": {
-        "name": "Nayli",
-        "email": "naylimohdali@gmail.com",
-        "company": "IIUM"
+        "name": "Aida Zulaikha",
+        "email": "aidazulaikha3405@gmail.com",
+        "company": ""
       },
       "helpRef": "ISO/IEC/IEEE 29148:2018",
       "data": [
@@ -45,7 +45,7 @@
               "id": "116",
               "guid": "ead2f789-8cab-470d-b118-e77ec5c69514",
               "heading": "Purpose",
-              "text": "<p>Aim to centralize all FYP-related activities into a single platform</p>",
+              "text": "<p>Aim to centralize all FYP-related activities into a single platform, improving the efficiency.</p>",
               "type": "SEC",
               "history": [
                 {
@@ -58,6 +58,28 @@
                     "name": "Nayli"
                   },
                   "changedOn": "2026-05-15T14:24:01.428Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>Aim to centralize all FYP-related activities into a single platform</p>"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "aidazulaikha3405@gmail.com",
+                    "name": "Aida Zulaikha"
+                  },
+                  "changedOn": "2026-05-16T17:26:05.348Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>Aim to centralize all FYP-related activities into a single platform, improve the efficiency.</p>"
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "aidazulaikha3405@gmail.com",
+                    "name": "Aida Zulaikha"
+                  },
+                  "changedOn": "2026-05-16T17:26:34.211Z"
                 }
               ]
             },
@@ -65,7 +87,21 @@
               "id": "117",
               "guid": "4e736a4e-9786-468e-a372-e7a993d107a6",
               "heading": "Scope",
-              "type": "SEC"
+              "text": "<p>FYP Management System covers online submission, supervisor assignment, milestone tracking, feedback and grading.</p>",
+              "type": "SEC",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "",
+                    "email": "aidazulaikha3405@gmail.com",
+                    "name": "Aida Zulaikha"
+                  },
+                  "changedOn": "2026-05-16T17:29:01.029Z"
+                }
+              ]
             },
             {
               "id": "118",
