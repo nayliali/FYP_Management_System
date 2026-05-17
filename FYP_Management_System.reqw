@@ -13,7 +13,7 @@
         "email": "naylimohdali@gmail.com",
         "company": "IIUM"
       },
-      "lastChangedOn": "2026-05-16T17:29:01.029Z",
+      "lastChangedOn": "2026-05-17T03:39:33.409Z",
       "lastChangedBy": {
         "name": "Aida Zulaikha",
         "email": "aidazulaikha3405@gmail.com",
@@ -225,63 +225,343 @@
                       "guid": "d3a48766-526a-44c8-848e-e39f7374d8dc",
                       "heading": "FYP-G1-01 ",
                       "text": "<p>The system shall provide the FYP coordinator with the ability to view student progress, including milestone completion and submission status for all registered FYP students</p>",
-                      "source": "Interview with FYP Coordinator "
+                      "owner": "",
+                      "priority": "H",
+                      "source": "Interview with FYP Coordinator ",
+                      "status": "Draft",
+                      "type": "FR",
+                      "links": {
+                        "satisfaction": [
+                          {
+                            "suspectClearedOn": "2026-05-17T03:34:32.500Z",
+                            "target": "SRS-67"
+                          }
+                        ]
+                      },
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T02:51:14.549Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "status": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:10:08.620Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "owner": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:19:34.452Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "type": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:19:41.124Z"
+                        },
+                        {
+                          "addedLink": {
+                            "target": [
+                              "SRS-67"
+                            ],
+                            "type": "satisfaction"
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:34:32.500Z"
+                        }
+                      ]
                     },
                     {
                       "id": "67",
                       "guid": "2f00ea24-732a-4e89-b01b-0cfcd6b56077",
                       "heading": "FYP-G1-02 ",
                       "text": "<p>The system shall provide supervisors with the ability to view student progress, including milestone completion and submission status of their assigned students.</p>",
-                      "source": "Interview with Supervisors "
+                      "priority": "H",
+                      "source": "Interview with Supervisors ",
+                      "status": "Draft",
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T02:50:11.970Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "status": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:10:13.358Z"
+                        }
+                      ]
                     },
                     {
                       "id": "68",
                       "guid": "63df4bc9-684e-4386-92fc-90a3adc0f27d",
                       "heading": "FYP-G1-03 ",
                       "text": "<p>The system shall provide students with the ability to view their own progress status.</p>",
-                      "source": "Student Interview + Prototype Validation "
+                      "priority": "H",
+                      "source": "Student Interview + Prototype Validation ",
+                      "status": "Draft",
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T02:50:18.752Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "status": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:10:18.620Z"
+                        }
+                      ]
                     },
                     {
                       "id": "69",
                       "guid": "c8ed77f5-d633-406b-8cf8-2637ceb7f475",
                       "heading": "FYP-G1-04 ",
                       "text": "<p>The system shall provide the supervisor with the ability to record each supervision session, including the meeting date and a summary of the discussion.</p>",
-                      "source": "Interview with Supervisors "
+                      "priority": "M",
+                      "source": "Interview with Supervisors ",
+                      "status": "Draft",
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T02:50:48.034Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "status": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:10:22.812Z"
+                        }
+                      ]
                     },
                     {
                       "id": "70",
                       "guid": "0266973d-13ad-4f38-9a25-fb89292bd4d3",
                       "heading": "FYP-G1-05 ",
                       "text": "<p>The system shall provide students with the ability to view their supervision meeting records and progress, including meeting date and summary of discussion</p>",
-                      "source": "Interview with Supervisors "
+                      "priority": "M",
+                      "source": "Interview with Supervisors ",
+                      "status": "Draft",
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T02:50:54.350Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "status": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:10:27.609Z"
+                        }
+                      ]
                     },
                     {
                       "id": "71",
                       "guid": "85c3a386-04dc-42b2-b3a5-1015290f9cf3",
                       "heading": "FYP-G1-06 ",
                       "text": "<p>The system shall calculate student progress based on completed milestones and submitted deliverables.</p>",
-                      "source": "Interview with FYP Coordinator "
+                      "priority": "H",
+                      "source": "Interview with FYP Coordinator ",
+                      "status": "Draft",
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T02:50:29.286Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "status": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:10:31.396Z"
+                        }
+                      ]
                     },
                     {
                       "id": "72",
                       "guid": "b1c39245-6ad8-4f8f-8866-be044d5b49cc",
                       "heading": "FYP-G1-07 ",
                       "text": "<p>The system shall provide students with the ability to schedule a meeting with their supervisor.</p>",
-                      "source": "Interview with student "
+                      "priority": "L",
+                      "source": "Interview with student ",
+                      "status": "Draft",
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T02:51:32.502Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "status": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:10:36.024Z"
+                        }
+                      ]
                     },
                     {
                       "id": "73",
                       "guid": "fe69d2c7-75c8-4740-98b4-2faed2a59813",
                       "heading": "FYP-G1-08 ",
                       "text": "<p>The system shall provide a direct messaging feature to enable communication between students and supervisors.</p>",
-                      "source": "Prototype validation "
+                      "priority": "L",
+                      "source": "Prototype validation ",
+                      "status": "Draft",
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T02:51:37.799Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "status": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:10:39.887Z"
+                        }
+                      ]
                     },
                     {
                       "id": "74",
                       "guid": "06a5ade9-ec88-414e-a047-a32dd26e7450",
                       "heading": "FYP-G1-09 ",
                       "text": "<p>The system shall allow announcements to be forwarded into the direct messaging system for targeted user communication.</p>",
-                      "source": "Prototype validation "
+                      "priority": "L",
+                      "source": "Prototype validation ",
+                      "status": "Draft",
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T02:51:42.736Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "status": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:10:44.455Z"
+                        }
+                      ]
                     }
                   ]
                 },
@@ -295,35 +575,149 @@
                       "guid": "a8277a32-f84e-40e9-ad06-c8ee7db24946",
                       "heading": "FYP-G2-01 ",
                       "text": "<p>The system shall provide students with the ability to submit FYP deliverables online.</p>",
-                      "source": "FYP Guidelines (Document) "
+                      "priority": "H",
+                      "source": "FYP Guidelines (Document) ",
+                      "discussion": [
+                        {
+                          "guid": "052dd9c6-c7c4-4d59-bbee-d9d0f00d065f",
+                          "comment": "<p>need to confirm the type of files</p>",
+                          "date": "2026-05-17T03:39:33.409Z",
+                          "author": {
+                            "name": "Aida Zulaikha",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "company": ""
+                          }
+                        }
+                      ],
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T02:58:52.498Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "status": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:35:25.358Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "status": "Draft"
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:35:34.311Z"
+                        },
+                        {
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:39:33.409Z",
+                          "commentGuid": "052dd9c6-c7c4-4d59-bbee-d9d0f00d065f",
+                          "updatedComment": null
+                        }
+                      ]
                     },
                     {
                       "id": "77",
                       "guid": "0a4ddc3e-2931-49dd-838b-3a610a325a80",
                       "heading": "FYP-G2-02 ",
                       "text": "<p>The system shall automatically record the submission date and time for each FYP deliverable.</p>",
-                      "source": "Interview with FYP Coordinator "
+                      "priority": "M",
+                      "source": "Interview with FYP Coordinator ",
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T02:59:10.235Z"
+                        }
+                      ]
                     },
                     {
                       "id": "78",
                       "guid": "65ba60ec-233b-4b02-a99f-825dfafb305c",
                       "heading": "FYP-G2-03 ",
                       "text": "<p>The system shall update the student progress status upon submission of each FYP deliverable.</p>",
-                      "source": "Interview with FYP Coordinator + Prototype Validation "
+                      "priority": "M",
+                      "source": "Interview with FYP Coordinator + Prototype Validation ",
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T02:59:17.424Z"
+                        }
+                      ]
                     },
                     {
                       "id": "79",
                       "guid": "899a6243-25a7-47d6-875b-965ea390a9b2",
                       "heading": "FYP-G2-04 ",
                       "text": "<p>The system shall provide supervisors with the ability to view submitted FYP deliverables of their assigned students.</p>",
-                      "source": "Interview with Supervisors "
+                      "priority": "H",
+                      "source": "Interview with Supervisors ",
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T02:58:57.339Z"
+                        }
+                      ]
                     },
                     {
                       "id": "80",
                       "guid": "fc91a252-85b6-4d63-90a4-486809532490",
                       "heading": "FYP-G2-05 ",
                       "text": "<p>The system shall notify supervisors when a student submits a FYP deliverable.</p>",
-                      "source": "Interview with Supervisors "
+                      "priority": "L",
+                      "source": "Interview with Supervisors ",
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T02:59:23.054Z"
+                        }
+                      ]
                     }
                   ]
                 },
@@ -337,49 +731,169 @@
                       "guid": "c9f39905-41b0-4e70-a6a2-e4155bf50754",
                       "heading": "FYP-G3-01 ",
                       "text": "<p>The system shall provide the FYP coordinator with the ability to assign a supervisor to each student.</p>",
-                      "source": "Interview with FYP Coordinator "
+                      "priority": "H",
+                      "source": "Interview with FYP Coordinator ",
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:03:21.248Z"
+                        }
+                      ]
                     },
                     {
                       "id": "83",
                       "guid": "5c5fa86f-4f3d-4273-9058-d1ca5562d981",
                       "heading": "FYP-G3-02 ",
                       "text": "<p>The system shall allow students to select their preferred supervisor.</p>",
-                      "source": "FYP Guidelines (Document) + Student Interview "
+                      "priority": "L",
+                      "source": "FYP Guidelines (Document) + Student Interview ",
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:04:09.937Z"
+                        }
+                      ]
                     },
                     {
                       "id": "84",
                       "guid": "af65fcce-c394-482d-9d01-b1ab186f69c9",
                       "heading": "FYP-G3-03 ",
                       "text": "<p>The system shall enable the FYP coordinator to approve or reject students’ supervisor preferences.</p>",
-                      "source": "FYP Guidelines (Document) "
+                      "priority": "L",
+                      "source": "FYP Guidelines (Document) ",
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:04:14.757Z"
+                        }
+                      ]
                     },
                     {
                       "id": "85",
                       "guid": "b4e10c78-6079-49fd-a4ac-6b38eae690b4",
                       "heading": "FYP-G3-04 ",
                       "text": "<p>The system shall provide the FYP coordinator with the ability to define the maximum number of students that can be assigned to each supervisor.</p>",
-                      "source": "      Faculty Workload Policy (Document) "
+                      "priority": "M",
+                      "source": "      Faculty Workload Policy (Document) ",
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:03:48.672Z"
+                        }
+                      ]
                     },
                     {
                       "id": "86",
                       "guid": "40d57edb-2213-4798-98e7-ea90da3ee66a",
                       "heading": "FYP-G3-05 ",
                       "text": "<p>The system shall provide the FYP coordinator with the ability to define the maximum number of students that can be assigned to each supervisor.</p>",
-                      "source": "Interview with Supervisors "
+                      "priority": "H",
+                      "source": "Interview with Supervisors ",
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T01:57:31.975Z"
+                        }
+                      ]
                     },
                     {
                       "id": "87",
                       "guid": "7990f096-ad74-4dc2-b5eb-08e716db9ca6",
                       "heading": "FYP-G3-06 ",
                       "text": "<p>The system shall provide students with the ability to view their assigned supervisor.</p>",
-                      "source": "Student Interview "
+                      "priority": "H",
+                      "source": "Student Interview ",
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:03:31.572Z"
+                        }
+                      ]
                     },
                     {
                       "id": "88",
                       "guid": "36351445-1c05-4de7-a6eb-349e2cc046e4",
                       "heading": "FYP-G3-07 ",
                       "text": "<p>The system shall prevent assignment of students to a supervisor if the maximum supervision limit has been reached.</p>",
-                      "source": "Faculty Workload Policy (Document) + Interview with Coordinator "
+                      "priority": "M",
+                      "source": "Faculty Workload Policy (Document) + Interview with Coordinator ",
+                      "discussion": [
+                        {
+                          "guid": "51cee24d-1ed6-4f5a-9087-3bf464feeecb",
+                          "comment": "<p>need confirmation of limit of each supervisor</p>",
+                          "date": "2026-05-17T03:14:49.103Z",
+                          "author": {
+                            "name": "Aida Zulaikha",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "company": ""
+                          }
+                        }
+                      ],
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:03:54.395Z"
+                        },
+                        {
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:14:49.103Z",
+                          "commentGuid": "51cee24d-1ed6-4f5a-9087-3bf464feeecb",
+                          "updatedComment": null
+                        }
+                      ]
                     }
                   ]
                 },
@@ -393,13 +907,28 @@
                       "guid": "e3336a54-fcf5-4e70-b81b-01fe78a741cc",
                       "heading": "FYP-G4-01 ",
                       "text": "<p>The system shall allow students to register for participation in the FYP showcase.</p>",
-                      "source": "FYP Guidelines (Document) "
+                      "priority": "M",
+                      "source": "FYP Guidelines (Document) ",
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:06:49.399Z"
+                        }
+                      ]
                     },
                     {
                       "id": "91",
                       "guid": "c0b6f6c4-c664-4cfd-85d0-55ec79d35532",
                       "heading": "FYP-G4-02 ",
                       "text": "<p>The system shall record the participation details of registered students.</p>",
+                      "priority": "M",
                       "source": "Interview with FYP Coordinators ",
                       "discussion": [
                         {
@@ -423,6 +952,17 @@
                           "changedOn": "2026-05-15T15:16:34.680Z",
                           "commentGuid": "af1734bf-c2b7-4500-9fe6-dfd08ccb1b69",
                           "updatedComment": null
+                        },
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:06:55.330Z"
                         }
                       ]
                     },
@@ -431,56 +971,190 @@
                       "guid": "e7fafeb1-d091-4577-b462-b36b6c508c0e",
                       "heading": "FYP-G4-03 ",
                       "text": "<p>The system shall provide the FYP coordinator with the ability to define available presentation slots, including date, time, and venue.</p>",
-                      "source": "Interview with FYP Coordinator "
+                      "priority": "H",
+                      "source": "Interview with FYP Coordinator ",
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:06:28.360Z"
+                        }
+                      ]
                     },
                     {
                       "id": "93",
                       "guid": "dd7a7533-242e-4610-b9ca-3dff1e2e52df",
                       "heading": "FYP-G4-04 ",
                       "text": "<p>The system shall provide students with the ability to view their assigned presentation schedule.</p>",
-                      "source": "Interview with students    "
+                      "priority": "H",
+                      "source": "Interview with students    ",
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:06:32.964Z"
+                        }
+                      ]
                     },
                     {
                       "id": "94",
                       "guid": "88a05b1c-fb98-42bf-9f2a-b21205ae2556",
                       "heading": "FYP-G4-05 ",
                       "text": "<p>The system shall provide the FYP coordinator with the ability to assign evaluators to presentation sessions.</p>",
-                      "source": "Interview with FYP Coordinator "
+                      "priority": "H",
+                      "source": "Interview with FYP Coordinator ",
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:06:37.430Z"
+                        }
+                      ]
                     },
                     {
                       "id": "95",
                       "guid": "f4bcd99d-e224-4b9a-8382-6a3eaf5a21bc",
                       "heading": "FYP-G4-06 ",
                       "text": "<p>The system shall allow students to select a presentation slot from the available slots.</p>",
-                      "source": "Interview with FYP Coordinator + Prototype Validation "
+                      "priority": "M",
+                      "source": "Interview with FYP Coordinator + Prototype Validation ",
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:07:01.887Z"
+                        }
+                      ]
                     },
                     {
                       "id": "96",
                       "guid": "c9c7e928-a662-44a9-b116-c395abcd2ac6",
                       "heading": "FYP-G4-07 ",
                       "text": "<p>The system shall prevent students from selecting slots that are unavailable or fully booked.</p>",
-                      "source": "System constraint "
+                      "priority": "M",
+                      "source": "System constraint ",
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:07:09.011Z"
+                        }
+                      ]
                     },
                     {
                       "id": "97",
                       "guid": "e5aff9cc-f1a1-4f9b-88c7-6f52eccbdaba",
                       "heading": "FYP-G4-08 ",
                       "text": "<p>The system shall restrict slot selection to a specified booking period defined by the FYP coordinator.</p>",
-                      "source": "FYP Guideline (Document) "
+                      "priority": "M",
+                      "source": "FYP Guideline (Document) ",
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:07:14.082Z"
+                        }
+                      ]
                     },
                     {
                       "id": "98",
                       "guid": "04131e47-e396-4606-9915-38eecd7979c0",
                       "heading": "FYP-G4-09 ",
                       "text": "<p>The system shall provide the FYP coordinator with the ability to create and manage announcements.</p>",
-                      "source": "Interview with FYP Coordinator "
+                      "priority": "L",
+                      "source": "Interview with FYP Coordinator ",
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:07:26.453Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "priority": "H"
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:07:39.812Z"
+                        }
+                      ]
                     },
                     {
                       "id": "99",
                       "guid": "1a4160c4-195f-45f0-8298-156d1a128598",
                       "heading": "FYP-G4-10 ",
                       "text": "<p>The system shall provide users with the ability to view announcements.</p>",
-                      "source": "Interview with FYP Coordinator "
+                      "priority": "L",
+                      "source": "Interview with FYP Coordinator ",
+                      "history": [
+                        {
+                          "attributesChanged": {
+                            "priority": null
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:07:30.880Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "priority": "H"
+                          },
+                          "changedBy": {
+                            "company": "",
+                            "email": "aidazulaikha3405@gmail.com",
+                            "name": "Aida Zulaikha"
+                          },
+                          "changedOn": "2026-05-17T03:07:34.689Z"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -678,6 +1352,7 @@
                   "heading": "FYP-C-02",
                   "text": "<p>No real student or supervisor personal data may be used during development and testing</p><p><br></p>",
                   "source": "University Data Protection Policy (Document)",
+                  "status": "Reviewed",
                   "history": [
                     {
                       "affectedNodeId": "109",
@@ -712,6 +1387,17 @@
                         "name": "Nayli"
                       },
                       "changedOn": "2026-05-15T16:23:42.746Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "status": null
+                      },
+                      "changedBy": {
+                        "company": "",
+                        "email": "aidazulaikha3405@gmail.com",
+                        "name": "Aida Zulaikha"
+                      },
+                      "changedOn": "2026-05-17T02:09:21.324Z"
                     }
                   ]
                 },
@@ -1399,6 +2085,16 @@
   "attachments": {
   },
   "traceability": {
+    "satisfaction": {
+      "name": "Satisfaction",
+      "source": "Satisfies",
+      "suspect": [
+        "deleted",
+        "heading",
+        "text"
+      ],
+      "target": "Is satisfied by"
+    }
   },
   "metadata": {
     "format": "2.22",
